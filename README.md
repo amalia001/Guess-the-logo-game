@@ -1,6 +1,16 @@
-# Guess-the-logo
-A game created at the Mobile Programming course using Dart and Flutter.
-The game's purpose is to guess as many logos as you can, so that you get a high score.
+# guess_the_logo
 
-![image](https://github.com/amalia001/Guess-the-logo-game/assets/79217037/9ba9cf30-0c2b-44a6-a66b-c2b6eca9fc60)
+A new Flutter project.
 
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
