@@ -1,6 +1,6 @@
 # guess_the_logo
 
-A new Flutter project.
+A game coded using Dart and Flutter; the purpose is to guess as many logos as you can.
 
 ## Getting Started
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/amalia001/Guess-the-logo-game/assets/79217037/ce1a7cd6-8cce-4c26-8435-1912efdf5519)
+
