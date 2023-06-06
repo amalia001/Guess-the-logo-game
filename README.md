@@ -8,12 +8,15 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![image](https://github.com/amalia001/Guess-the-logo-game/assets/79217037/ce1a7cd6-8cce-4c26-8435-1912efdf5519)
+![image](https://github.com/amalia001/Guess-the-logo-game/assets/79217037/08b32eb5-9082-43ae-931d-fab0442a3066)
+
+![image](https://github.com/amalia001/Guess-the-logo-game/assets/79217037/4545cd7d-5299-4b2e-b016-4594b9c70bfa)
+
+![image](https://github.com/amalia001/Guess-the-logo-game/assets/79217037/2205613a-0e0d-45de-a763-0bbde6a48315)
+
 
