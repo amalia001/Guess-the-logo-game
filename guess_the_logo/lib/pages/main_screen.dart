@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       .push(MaterialPageRoute(builder: (context) => const GameScreen()));
                 },
                 icon: const Icon(Icons.play_arrow, size: 18),
-                label: const Text("PLAY"),
+                label: const Text("New Game"),
               )),
             ),
             Center(

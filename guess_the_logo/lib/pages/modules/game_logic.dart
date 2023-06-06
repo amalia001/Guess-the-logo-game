@@ -20,6 +20,12 @@ class _RandomLogoWidgetState extends State<RandomLogoWidget> {
     'Apple': ['Apple', 'Samsung', 'Huawei', 'LG'],
     'Facebook': ['Facebook', 'Twitter', 'Nestle', 'OpenBook'],
     'BMW': ['BMW', 'VW', 'Audi', 'Nesscaffe'],
+    'Discord': ['Discord', 'Skype',  'Zoom', 'Microsoft Teams'],
+    'Git': ['GitHub', 'BitBucket', 'GitLab',  'SourceForge'],
+    'Instagram': ['Instagram', 'Facebook', 'Twitter', 'Snapchat'],
+    'McDonalds': ['McDonalds', 'Subway', 'Burger King', 'KFC'],
+    'Starbucks': ['Starbucks', 'Costa', 'Nescafe', 'Lavazza'],
+    'Twitter': ['Twitter', 'Snapchat', 'Facebook', 'Instagram'],
     // Add more logo entries and their corresponding answers here
   };
   List<String> logosSet = [];
@@ -74,6 +80,7 @@ class _RandomLogoWidgetState extends State<RandomLogoWidget> {
           style: TextStyle(
             fontSize: 18,
             fontWeight: FontWeight.bold,
+            fontFamily: 'RobotoMono',
           ),
         ),
         const SizedBox(height: 8),

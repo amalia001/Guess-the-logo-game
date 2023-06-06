@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
       title: 'Guess The Logo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
+        
         useMaterial3: true,
       ),
       home: const MyHomePage(title: 'Guess The Logo',),
